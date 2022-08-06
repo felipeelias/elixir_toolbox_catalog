@@ -1,0 +1,6 @@
+name: Arithmetic
+description: Number theory, mensuration and computation
+packages:
+  - decimal
+  - ratio
+  - numbers

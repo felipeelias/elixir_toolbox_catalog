@@ -1,0 +1,10 @@
+name: HTML
+description: Libraries that handle parsing, serializing and manipulation of HTML data structures
+packages:
+  - floki
+  - html_entities
+  - html_sanitize_ex
+  - Meeseeks
+  - modest_ex
+  - myhtmlex
+  - tidy_ex

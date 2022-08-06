@@ -1,0 +1,6 @@
+name: State Machines
+description: A state machine is a mathematical abstraction used to design algorithms
+packages:
+  - fsm
+  - gen_fsm
+  - exfsm

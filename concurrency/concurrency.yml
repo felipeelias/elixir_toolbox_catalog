@@ -1,0 +1,7 @@
+name: Concurrent Processing
+description: Concurrent computation
+packages:
+  - flow
+  - parallel_stream
+  - parex
+  - paratize

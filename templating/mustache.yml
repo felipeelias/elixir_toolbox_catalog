@@ -1,0 +1,6 @@
+name: Mustache
+description: Mustache template libraries
+packages:
+  - bbmustache
+  - mustache
+  - mustachex

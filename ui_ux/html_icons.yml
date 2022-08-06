@@ -1,0 +1,9 @@
+name: HTML Icons
+description: Icon collections for HTML documents
+packages:
+  - ex_heroicons
+  - heroicons
+  - heroicons_liveview
+  - phoenix_heroicons
+  - phx_heroicons
+  - surface_heroicons

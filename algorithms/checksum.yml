@@ -1,0 +1,4 @@
+name: Checksum
+description: Checksum calculation
+packages:
+  - luhn

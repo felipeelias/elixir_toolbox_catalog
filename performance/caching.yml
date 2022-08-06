@@ -1,0 +1,13 @@
+name: Caching
+description: Libraries for caching data
+packages:
+  - cachex
+  - con_cache
+  - elixir_locker
+  - gen_spoxy
+  - jc
+  - locker
+  - lru_cache
+  - memoize
+  - nebulex
+  - stash

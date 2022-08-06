@@ -1,0 +1,6 @@
+name: HTML
+description: HTML template libraries
+packages:
+  - eml
+  - taggart
+  - temple

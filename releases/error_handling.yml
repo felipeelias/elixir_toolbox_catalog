@@ -1,0 +1,6 @@
+name: Error Handling
+description: Working with errors and exceptions
+packages:
+  - exceptional
+  - happy
+  - ok

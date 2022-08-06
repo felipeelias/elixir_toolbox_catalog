@@ -1,0 +1,20 @@
+name: Date and Time
+description: Libraries for working with dates, times and calendars
+packages:
+  - block_timer
+  - calendar
+  - calendarific
+  - calixir
+  - chronos
+  - cocktail
+  - emojiclock
+  - ex_ical
+  - good_times
+  - jalaali
+  - milliseconds
+  - moment
+  - open_hours
+  - repeatex
+  - timex
+  - timex_interval
+  - tzdata

@@ -1,0 +1,6 @@
+name: Hashing
+description: Hashing algorithms
+packages:
+  - rendezvous
+  - hash_ring_ex
+  - jumper

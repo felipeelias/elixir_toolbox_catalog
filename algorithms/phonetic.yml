@@ -1,0 +1,4 @@
+name: Phonetic Algorithms
+description: Phonetic Algorithms (fuzzy string matching)
+packages:
+  - the_fuzz

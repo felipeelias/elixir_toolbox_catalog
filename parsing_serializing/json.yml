@@ -1,0 +1,18 @@
+name: JSON
+description: Libraries that handle parsing, serializing and manipulation of JSON data structures
+packages:
+  - elixir-json
+  - exjson
+  - exjsx
+  - jason
+  - jaxon
+  - jazz
+  - jose
+  - json
+  - jsone
+  - Jsonrs
+  - JsonStreamEncoder
+  - jsx
+  - jsxn
+  - poison
+  - tiny

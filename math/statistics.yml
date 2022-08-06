@@ -1,0 +1,4 @@
+name: Statistics
+description: Libraries that provide statistical functions
+packages:
+  - statistics

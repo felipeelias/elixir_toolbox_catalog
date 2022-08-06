@@ -1,0 +1,4 @@
+name: Associative
+description: Associative Data Strucutres
+packages:
+  - bimap

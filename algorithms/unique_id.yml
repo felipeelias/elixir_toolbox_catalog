@@ -1,0 +1,4 @@
+name: Unique IDs
+description: Unique IDs generation
+packages:
+  - cuid

@@ -1,0 +1,11 @@
+name: Linear Algebra
+description: Libraries for manipulating matrices and/or vectors
+packages:
+  - ex_matrix
+  - exmatrix
+  - matrex
+  - matrix
+  - matrix_reloaded
+  - numexy
+  - graphmath
+  - numerix

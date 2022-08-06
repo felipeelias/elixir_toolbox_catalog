@@ -1,0 +1,6 @@
+name: Monads
+description: Monads libraries
+packages:
+  - witchcraft
+  - monadex
+  - monad

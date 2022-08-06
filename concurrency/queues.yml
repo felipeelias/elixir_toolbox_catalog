@@ -1,0 +1,4 @@
+name: Queues
+description: Queue implementations
+packages:
+  - blocking_queue

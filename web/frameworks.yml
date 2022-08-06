@@ -1,0 +1,7 @@
+name: Web Frameworks
+description: Frameworks designed to support the development of web applications, web services, and web APIs
+packages:
+  - phoenix
+  - sugar
+  - trot
+  - nitro

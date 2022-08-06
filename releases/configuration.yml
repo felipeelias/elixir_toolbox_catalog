@@ -1,0 +1,15 @@
+name: Configuration
+description: Libraries and tools working with configurations.
+packages:
+  - confex
+  - configparser_ex
+  - conform
+  - dotenv
+  - ex_conf
+  - figaro
+  - figaro_elixir
+  - hush
+  - hush_aws_secrets_manager
+  - hush_gcp_secret_manager
+  - sweetconfig
+  - vapor

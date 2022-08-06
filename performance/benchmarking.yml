@@ -1,0 +1,6 @@
+name: Benchmarking
+description: Running code to see how long it takes, which is faster and/or if improvements have been made
+packages:
+  - benchee
+  - benchfella
+  - bmark

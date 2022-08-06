@@ -1,0 +1,5 @@
+name: HAML
+description: HAML template libraries
+packages:
+  - calliope
+  - phoenix_haml

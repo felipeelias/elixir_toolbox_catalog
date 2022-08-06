@@ -1,0 +1,15 @@
+name: XML
+description: Libraries that handle parsing, serializing and manipulation of XML data structures
+packages:
+  - elixir-map-to-xml
+  - elixir-xml-to-map
+  - erlsom
+  - exmerl
+  - exml
+  - exoml
+  - fast_xml
+  - quinn
+  - saxy
+  - sweet_xml
+  - xml_builder
+  - xmlrpc

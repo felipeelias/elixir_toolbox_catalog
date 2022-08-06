@@ -1,0 +1,11 @@
+name: Phone Numbers
+description: Libraries that parse and format phone numbers
+packages:
+  - ex_phone_number
+  - ex_phone_number_fresha
+  - elibphonenumber
+  - antl_phonenumber
+  - mynumber
+  - mobile_number_format
+  - libphonenumber_erlang
+  - libphonenumber

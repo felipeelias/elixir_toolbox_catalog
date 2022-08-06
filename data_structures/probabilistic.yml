@@ -1,0 +1,7 @@
+name: Probabilistic
+description: Probabilistic Data Structures implementations
+packages:
+  - bloomex
+  - cuckoo
+  - exor_filter
+  - hypex

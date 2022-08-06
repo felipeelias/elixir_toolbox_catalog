@@ -1,0 +1,28 @@
+web:
+  title: Web Apps, Services & Interaction
+parsing_serializing:
+  title: Data Manipulation
+# formatting:
+#   title: Data Formatting
+performance:
+  title: Performance
+releases:
+  title: Running Apps on Production
+ui_ux:
+  title: User Interface and Experience
+concurrency:
+  title: Concurrency
+design_patterns:
+  title: Design Patterns
+algorithms:
+  title: Algorithms
+math:
+  title: Math, Physics, Statistics and Machine Learning
+language_extensions:
+  title: Elixir Language Extensions
+data_structures:
+  title: Data Structures
+i18n:
+  title: Localization and Internationalization
+templating:
+  title: Templating

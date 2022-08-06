@@ -1,0 +1,4 @@
+name: Authentication
+description: Libraries that handle authentication for the web
+packages:
+  - ueberauth

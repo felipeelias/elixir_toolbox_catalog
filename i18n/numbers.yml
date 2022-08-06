@@ -1,0 +1,7 @@
+name: Numbers and Currency
+description: Libraries that handle number parsing and formatting
+packages:
+  - number
+  - currency_formatter
+  - ex_cldr_numbers
+  - norwegian_id_number

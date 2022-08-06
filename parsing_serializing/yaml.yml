@@ -1,0 +1,9 @@
+name: YAML
+description: Libraries that handle parsing, serializing and manipulation of YAML data structures
+packages:
+  - fast_yaml
+  - yamel
+  - yamerl
+  - yaml_elixir
+  - ymlr
+  - yomel

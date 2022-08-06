@@ -1,0 +1,4 @@
+name: Constraint Solvers
+description: Constraint Solvers
+packages:
+  - aruspex

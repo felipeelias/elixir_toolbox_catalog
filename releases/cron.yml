@@ -1,0 +1,16 @@
+name: Cron
+description: Tools for managing Cron
+packages:
+  - cloudi_service_cron
+  - cron
+  - cron_scheduler
+  - cronex
+  - cronider
+  - cronitor
+  - crontab
+  - ecron
+  - ecrontab
+  - ex_cron
+  - ex_cronofy
+  - gen_cron
+  - mimicron

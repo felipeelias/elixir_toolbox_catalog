@@ -1,0 +1,8 @@
+name: Maps
+description: Libraries that add more functionalities to Elixir Maps
+packages:
+  - map_diff
+  - deep_merge
+  - mappable
+  - indifferent
+  - mason

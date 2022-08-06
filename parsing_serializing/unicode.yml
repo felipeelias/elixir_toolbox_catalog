@@ -1,0 +1,4 @@
+name: Unicode
+description: Unicode libraries
+packages:
+  - unicode_util_compat
