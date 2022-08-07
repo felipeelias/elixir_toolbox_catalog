@@ -2,3 +2,5 @@ name: Randomization
 description: Random number generators
 packages:
   - isaac
+  - quickrand
+  - misc_random

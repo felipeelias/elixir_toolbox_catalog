@@ -1,4 +1,9 @@
 name: Authentication
 description: Libraries that handle authentication for the web
 packages:
-  - ueberauth
+  - guardian
+  - pow
+  - basic_auth
+  - coherence
+  - phx_gen_auth
+  - simple_token_authentication

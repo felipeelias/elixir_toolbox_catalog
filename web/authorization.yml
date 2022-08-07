@@ -1,0 +1,6 @@
+name: Authorization
+description: Libraries that provide authorization policies
+packages:
+  - bodyguard
+  - canary
+  - policy_wonk

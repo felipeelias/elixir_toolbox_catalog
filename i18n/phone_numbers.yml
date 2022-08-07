@@ -9,3 +9,4 @@ packages:
   - mobile_number_format
   - libphonenumber_erlang
   - libphonenumber
+  - phone

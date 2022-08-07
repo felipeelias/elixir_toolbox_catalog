@@ -1,0 +1,4 @@
+name: OAuth2 Servers
+description: Libraries that add OAuth 2.0 server functionality to your app.
+packages:
+  - ex_oauth2_provider
