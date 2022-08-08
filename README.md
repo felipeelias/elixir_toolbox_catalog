@@ -9,7 +9,7 @@ Please take a moment to read the points below to make the review process easy an
 
 ### What is Elixir Toolbox
 
-As of the writing of this page, <hex.pm> has around 13,300 packages :tada:.
+As of the writing of this page, Elixir has around 13,300 packages in [Hex](https://hex.pm) :tada:.
 It can be tough to find a package if you don't know it beforehand.
 
 The idea of [Elixir Toolbox](https://elixir-toolbox.dev) is to help you find the most appropriate package that solves the right problem.
@@ -22,7 +22,7 @@ We're trying to keep categories lean while not making it time-consuming to find 
 
 A category groups packages that solve the same "problem".
 
-An excellent example of a category is [JSON](http://localhost:4000/projects/parsing_serializing/json). That's because:
+An excellent example of a category is [JSON](https://elixir-toolbox.dev/projects/parsing_serializing/json). That's because:
 
 * It's easy to find in the category list
 * Packages in that category solve the same "problem" (parsing and serializing of JSON documents)
