@@ -1,0 +1,6 @@
+name: Test Factory
+description: Packages that enable factory data generation in tests
+packages:
+  - ex_machina
+  - phil_columns
+  - factory_girl_elixir

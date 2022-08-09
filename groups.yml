@@ -26,3 +26,9 @@ i18n:
   title: Localization and Internationalization
 templating:
   title: Templating
+phoenix:
+  title: Phoenix Framework Extensions
+ash:
+  title: Ash Framework Extensions
+testing:
+  title: Testing

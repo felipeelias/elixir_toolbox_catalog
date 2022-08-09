@@ -2,3 +2,8 @@ name: Unique IDs
 description: Unique IDs generation
 packages:
   - cuid
+  - uuid
+  - elixir_uuid
+  - uuid_erl
+  - shortuuid
+  - base62_uuid

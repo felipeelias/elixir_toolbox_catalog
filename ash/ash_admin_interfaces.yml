@@ -1,0 +1,4 @@
+name: Ash Framework Admin Interfaces
+description: Libraries that add or generate Administration pages for Ash Apps
+packages:
+  - ash_admin

@@ -1,0 +1,13 @@
+name: Mocks and Stubs
+description: Libraries that helps with Mocking and Stubbing in tests
+packages:
+  - mox
+  - meck
+  - mock
+  - hammox
+  - mockery
+  - ex_meck
+  - placebo
+  - ex_mock
+  - mecks_unit
+  - em
