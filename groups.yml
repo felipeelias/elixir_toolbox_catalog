@@ -32,3 +32,5 @@ ash:
   title: Ash Framework Extensions
 testing:
   title: Testing
+ecto:
+  title: Ecto Extensions

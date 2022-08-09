@@ -18,3 +18,4 @@ packages:
   - timex
   - timex_interval
   - tzdata
+  - datix

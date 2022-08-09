@@ -7,3 +7,4 @@ packages:
   - uuid_erl
   - shortuuid
   - base62_uuid
+  - uniq
