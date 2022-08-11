@@ -1,0 +1,6 @@
+name: Markdown
+description: Markdown template libraries
+packages:
+  - earmark
+  - cmark
+  - discount

@@ -4,3 +4,4 @@ packages:
   - bbmustache
   - mustache
   - mustachex
+  - stache

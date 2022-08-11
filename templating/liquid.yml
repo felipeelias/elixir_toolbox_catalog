@@ -1,0 +1,5 @@
+name: Liquid
+description: Liquid template libraries
+packages:
+  - solid
+  - liquex

@@ -1,0 +1,4 @@
+name: Slim
+description: Slim template libraries
+packages:
+  - slim_fast
