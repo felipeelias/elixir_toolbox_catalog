@@ -1,5 +1,5 @@
 name: HTML
-description: HTML template libraries
+description: HTML template packages
 packages:
   - eml
   - taggart

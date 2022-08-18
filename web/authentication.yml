@@ -1,5 +1,5 @@
 name: Authentication
-description: Libraries that handle authentication for the web
+description: Packages that handle authentication for the web
 packages:
   - guardian
   - pow

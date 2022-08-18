@@ -1,5 +1,5 @@
 name: Markdown Parsers
-description: Markdown parser libraries that produce an AST
+description: Markdown parser packages that produce an AST
 packages:
   - earmark_parser
   - markright

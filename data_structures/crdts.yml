@@ -1,4 +1,4 @@
 name: CRDT
-description: Conflict-free replicated data type libraries
+description: Conflict-free replicated data type packages
 packages:
   - loom

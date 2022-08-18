@@ -1,5 +1,5 @@
 name: Phoenix Admin Interfaces
-description: Libraries that add or generate Administration pages to Phoenix Apps
+description: Packages that add or generate Administration pages to Phoenix Apps
 packages:
   - torch
   - adminable

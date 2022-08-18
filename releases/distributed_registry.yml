@@ -1,5 +1,5 @@
 name: Distributed Registry
-description: Libraries that manage distributed processes
+description: Packages that manage distributed processes
 packages:
   - horde
   - swarm

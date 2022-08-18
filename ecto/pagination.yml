@@ -1,4 +1,4 @@
 name: Pagination
-description: Libraries that add pagination helpers to Ecto
+description: Packages that add pagination helpers to Ecto
 packages:
   - paginator

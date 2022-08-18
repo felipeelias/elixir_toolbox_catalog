@@ -1,5 +1,5 @@
 name: XML
-description: Libraries that handle parsing, serializing and manipulation of XML data structures
+description: Packages that handle parsing, serializing and manipulation of XML data structures
 packages:
   - elixir-map-to-xml
   - elixir-xml-to-map

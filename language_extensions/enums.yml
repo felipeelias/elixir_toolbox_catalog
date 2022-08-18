@@ -1,4 +1,4 @@
 name: Enum
-description: Libraries that add more functionalities to Elixir Enums
+description: Packages that add more functionalities to Elixir Enums
 packages:
   - minmaxlist

@@ -1,5 +1,5 @@
 name: Single Sign-On
-description: Libraries that add Single Sign-On (SSO) authentication
+description: Packages that add Single Sign-On (SSO) authentication
 packages:
   - ueberauth
   - assent

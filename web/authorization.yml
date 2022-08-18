@@ -1,5 +1,5 @@
 name: Authorization
-description: Libraries that provide authorization policies
+description: Packages that provide authorization policies
 packages:
   - bodyguard
   - canary

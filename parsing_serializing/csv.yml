@@ -1,5 +1,5 @@
 name: CSV
-description: Libraries that handle parsing, serializing and manipulation of CSV data structures
+description: Packages that handle parsing, serializing and manipulation of CSV data structures
 packages:
   - cesso
   - csv

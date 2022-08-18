@@ -1,5 +1,5 @@
 name: Maps
-description: Libraries that add more functionalities to Elixir Maps
+description: Packages that add more functionalities to Elixir Maps
 packages:
   - map_diff
   - deep_merge

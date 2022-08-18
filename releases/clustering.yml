@@ -1,5 +1,5 @@
 name: Clustering
-description: Libraries that enable clustering of Erlang nodes
+description: Packages that enable clustering of Erlang nodes
 packages:
   - libcluster
   - peerage

@@ -1,5 +1,5 @@
 name: HTML
-description: Libraries that handle parsing, serializing and manipulation of HTML data structures
+description: Packages that handle parsing, serializing and manipulation of HTML data structures
 packages:
   - floki
   - html_entities

@@ -1,5 +1,5 @@
 name: PDF
-description: Libraries that handle parsing, serializing and manipulation of PDF documents
+description: Packages that handle parsing, serializing and manipulation of PDF documents
 packages:
   - chromic_pdf
   - gutenex

@@ -1,5 +1,5 @@
 name: JSON
-description: Libraries that handle parsing, serializing and manipulation of JSON data structures
+description: Packages that handle parsing, serializing and manipulation of JSON data structures
 packages:
   - elixir-json
   - exjson

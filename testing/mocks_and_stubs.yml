@@ -1,5 +1,5 @@
 name: Mocks and Stubs
-description: Libraries that helps with Mocking and Stubbing in tests
+description: Packages that helps with Mocking and Stubbing in tests
 packages:
   - mox
   - meck

@@ -1,5 +1,5 @@
 name: Numbers and Currency
-description: Libraries that handle number parsing and formatting
+description: Packages that handle number parsing and formatting
 packages:
   - number
   - currency_formatter

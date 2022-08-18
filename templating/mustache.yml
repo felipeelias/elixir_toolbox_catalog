@@ -1,5 +1,5 @@
 name: Mustache
-description: Mustache template libraries
+description: Mustache template packages
 packages:
   - bbmustache
   - mustache

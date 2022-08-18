@@ -1,5 +1,5 @@
 name: Phone Numbers
-description: Libraries that parse and format phone numbers
+description: Packages that parse and format phone numbers
 packages:
   - ex_phone_number
   - ex_phone_number_fresha

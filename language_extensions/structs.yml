@@ -1,4 +1,4 @@
 name: Structs
-description: Libraries that add more functionalities to Elixir Structs
+description: Packages that add more functionalities to Elixir Structs
 packages:
   - exconstructor

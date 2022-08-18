@@ -1,5 +1,5 @@
 name: Caching
-description: Libraries for caching data
+description: Packages for caching data
 packages:
   - cachex
   - con_cache

@@ -1,4 +1,4 @@
 name: Unicode
-description: Unicode libraries
+description: Unicode packages
 packages:
   - unicode_util_compat

@@ -1,5 +1,5 @@
 name: Date and Time
-description: Libraries for working with dates, times and calendars
+description: Packages for working with dates, times and calendars
 packages:
   - block_timer
   - calendar

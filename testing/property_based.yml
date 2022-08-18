@@ -1,5 +1,5 @@
 name: Property-Based Testing
-description: Property-based testing libraries
+description: Property-based testing packages
 packages:
   - stream_data
   - proper

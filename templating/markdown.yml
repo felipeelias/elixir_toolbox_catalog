@@ -1,5 +1,5 @@
 name: Markdown
-description: Markdown template libraries
+description: Markdown template packages
 packages:
   - earmark
   - cmark

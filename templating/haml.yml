@@ -1,4 +1,4 @@
 name: HAML
-description: HAML template libraries
+description: HAML template packages
 packages:
   - calliope

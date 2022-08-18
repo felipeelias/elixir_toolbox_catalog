@@ -1,5 +1,5 @@
 name: Linear Algebra
-description: Libraries for manipulating matrices and/or vectors
+description: Packages for manipulating matrices and/or vectors
 packages:
   - ex_matrix
   - exmatrix

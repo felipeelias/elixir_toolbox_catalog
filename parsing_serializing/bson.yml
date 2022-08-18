@@ -1,5 +1,5 @@
 name: BSON
-description: Libraries that handle parsing, serializing and manipulation of BSON data structures
+description: Packages that handle parsing, serializing and manipulation of BSON data structures
 packages:
   - bson
   - bsoneach
