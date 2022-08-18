@@ -5,3 +5,4 @@ packages:
   - phoenix_oauth2_provider
   - p1_oauth2
   - oauth
+  - boruta
