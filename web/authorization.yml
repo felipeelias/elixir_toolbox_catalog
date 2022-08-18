@@ -4,3 +4,16 @@ packages:
   - bodyguard
   - canary
   - policy_wonk
+  - let_me
+  - authorize
+  - aegis
+  - can
+  - pundit
+  - can_i
+  - simple_can
+  - canada
+  - terminator
+  - policy
+  - chalk_authorization
+  - auval_office
+  - meseeks

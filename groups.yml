@@ -34,3 +34,7 @@ testing:
   title: Testing
 ecto:
   title: Ecto Extensions
+plug:
+  title: Plug Packages
+absinthe:
+  title: Absinthe GraphQL Packages

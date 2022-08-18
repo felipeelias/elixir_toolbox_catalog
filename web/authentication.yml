@@ -7,3 +7,4 @@ packages:
   - coherence
   - phx_gen_auth
   - simple_token_authentication
+  - authex
