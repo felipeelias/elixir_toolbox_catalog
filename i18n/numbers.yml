@@ -5,3 +5,4 @@ packages:
   - currency_formatter
   - ex_cldr_numbers
   - norwegian_id_number
+  - ex_money
