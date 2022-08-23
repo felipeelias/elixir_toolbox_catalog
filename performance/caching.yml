@@ -11,3 +11,4 @@ packages:
   - memoize
   - nebulex
   - stash
+  - cache_money

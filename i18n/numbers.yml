@@ -6,3 +6,5 @@ packages:
   - ex_cldr_numbers
   - norwegian_id_number
   - ex_money
+  - money
+  - dinero

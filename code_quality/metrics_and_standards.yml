@@ -1,0 +1,4 @@
+name: Metrics and Standards
+description: Packages that help improve code quality by suggesting standards, formatting code and complexity metrics.
+packages:
+  - credo

@@ -38,3 +38,5 @@ plug:
   title: Plug Packages
 absinthe:
   title: Absinthe GraphQL Packages
+code_quality:
+  title: Code Quality

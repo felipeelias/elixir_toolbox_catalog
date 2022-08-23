@@ -1,0 +1,7 @@
+name: Code Coverage
+description: Utilities that report which code is being run. Most commonly this is used as test coverage which reports what parts of your code are not tested, but there are also tools to find dead production code
+packages:
+  - excoveralls
+  - coverex
+  - excoveralls_linter
+  - excov
