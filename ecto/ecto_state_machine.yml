@@ -1,0 +1,9 @@
+name: Ecto State Machines
+description: Packages that add state machine handling to Ecto.
+packages:
+  - ecto_state_machine
+  - fsmx
+  - ecto_as_state_machine
+  - estate
+  - simple_ecto_state_machine
+  - ecto_state_mc

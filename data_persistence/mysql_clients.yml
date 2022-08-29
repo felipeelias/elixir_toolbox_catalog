@@ -1,0 +1,8 @@
+name: MySQL Clients
+description: Packages that allow interaction with MySQL.
+packages:
+  - mariaex
+  - myxql
+  - mysql
+  - p1_mysql
+  - inaka_emysql

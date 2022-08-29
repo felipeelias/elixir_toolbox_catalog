@@ -1,0 +1,8 @@
+name: Avro
+description: Packages that handle parsing, serializing and manipulation of Apache Avro data.
+packages:
+  - erlavro
+  - avrora
+  - avro_ex
+  - avlizer
+  - avrolixr

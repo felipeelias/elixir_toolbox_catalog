@@ -40,3 +40,5 @@ absinthe:
   title: Absinthe GraphQL Packages
 code_quality:
   title: Code Quality
+data_persistence:
+  title: Data Persistence, Clients and Drivers

@@ -1,0 +1,4 @@
+name: Data Mapping
+description: Packages that allow interaction with data via mapping and query language.
+packages:
+  - ecto

@@ -1,0 +1,16 @@
+name: Kafka Clients
+description: Packages that allow interaction with Kafka.
+packages:
+  - kafka_ex
+  - kayrock
+  - kafka_protocol
+  - brod
+  - kaffe
+  - elsa
+  - kafe
+  - erlkaf
+  - kafka_ex_tc
+  - kafka_consumer
+  - kaffeine
+  - kvasir
+  - misha_cafex

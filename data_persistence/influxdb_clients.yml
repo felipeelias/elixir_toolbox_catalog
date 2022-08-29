@@ -1,0 +1,15 @@
+name: InfluxDB Clients
+description: Packages that allow interaction with InfluxDB.
+packages:
+  - instream
+  - influxql
+  - fluxter
+  - influxdb
+  - influx_udp
+  - ex_flux
+  - udpflux
+  - influx
+  - flux_influxdb
+  - inflex_db
+  - influx_ex
+  - instream_with_delete

@@ -2,3 +2,17 @@ name: Pagination
 description: Packages that add pagination helpers to Ecto
 packages:
   - paginator
+  - scrivener_ecto
+  - kerosene
+  - rummage_ecto
+  - quarto
+  - turbo_ecto
+  - flop
+  - paged_query
+  - ecto_paging
+  - cursor_paginator
+  - ecto_cursor
+  - ecto_cursor_pagination
+  - ouroboros
+  - fob
+  - dissolver

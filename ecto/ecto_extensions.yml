@@ -1,0 +1,11 @@
+name: Ecto Extensions
+description: Packages that add extra functionality to Ecto.
+packages:
+  - ecto_shorts
+  - ecto_enum
+  - ecto_psql_extras
+  - cloak_ecto
+  - ecto_changeset_tools
+  - ecto_state_machine
+  - ecto_autoslug_field
+  - ex_queb

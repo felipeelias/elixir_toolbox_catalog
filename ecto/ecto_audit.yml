@@ -1,0 +1,8 @@
+name: Audit, Versioning and Changes Tracking
+description: Packages that track changes on Ecto schemas and data.
+packages:
+  - ex_audit
+  - ecto_trail
+  - carbonite
+  - ecto_audit
+  - ecto_cellar

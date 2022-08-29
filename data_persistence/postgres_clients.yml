@@ -1,0 +1,7 @@
+name: PostgreSQL Clients
+description: Packages that allow interaction with PostgreSQL.
+packages:
+  - postgrex
+  - epgsql
+  - p1_pgsql
+  - pgo

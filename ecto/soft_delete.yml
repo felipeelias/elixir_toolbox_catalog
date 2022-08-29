@@ -1,0 +1,7 @@
+name: Soft Deletion
+description: Packages that add soft deletion to Ecto
+packages:
+  - soft_repo
+  - trash
+  - ecto_soft_delete
+  - paranoid

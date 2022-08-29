@@ -4,3 +4,13 @@ packages:
   - fsm
   - gen_fsm
   - exfsm
+  - machinery
+  - gearbox
+  - as_fsm
+  - aasm
+  - machinist
+  - states_language
+  - state_machine
+  - maxine
+  - exsm
+  - state_server
