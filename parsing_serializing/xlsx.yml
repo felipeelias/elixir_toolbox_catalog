@@ -1,0 +1,12 @@
+name: XLSX (Excel)
+description: Packages that handle parsing, serializing and manipulation of XLSX files
+packages:
+  - xlsxir
+  - elixlsx
+  - xlsx_parser
+  - xlsx_reader
+  - fast_xlsx_exporter
+  - excelion
+  - xlsx_stream
+  - ex_compose
+  - excellent
