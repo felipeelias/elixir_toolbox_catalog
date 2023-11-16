@@ -1,5 +1,5 @@
 name: Ash Framework API Extensions
-description: Packages that add or generate Apis for Ash Framework applications
+description: Packages that add or generate APIs for Ash Framework applications
 packages:
   - ash_graphql
   - ash_json_api
