@@ -1,0 +1,12 @@
+name: Ash Framework Resource Extensions
+description: Packages that add capabilities to or modify Ash Framework Resources
+packages:
+  - ash_phoenix
+  - ash_archival
+  - ash_authentication
+  - ash_authentication_phoenix
+  - ash_geo
+  - ash_state_machine
+  - ash_rbac
+  - ash_double_entry
+  - ash_ulid
