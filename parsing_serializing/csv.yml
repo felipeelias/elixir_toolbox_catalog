@@ -7,7 +7,6 @@ packages:
   - csv2sql
   - csvlixir
   - ecsv
-  - ecsv
   - erl_csv
   - ex_csv
   - exoffice
