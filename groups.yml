@@ -8,6 +8,8 @@ code_quality:
   title: Code Quality
 concurrency:
   title: Concurrency
+cryptocurrencies:
+  title: Cryptocurrencies
 data_persistence:
   title: Data Persistence, Clients and Drivers
 data_structures:

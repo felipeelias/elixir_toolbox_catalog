@@ -1,0 +1,5 @@
+name: Ethereum Tools
+description: Ethereum tools, validators, and clients
+packages:
+  - eip_55
+  - fast_eip_55
