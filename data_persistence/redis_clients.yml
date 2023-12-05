@@ -1,0 +1,16 @@
+name: Redis Clients
+description: Redis client libraries
+packages:
+  - eredis
+  - eredis_sync
+  - ex_redis_pool
+  - exredis
+  - gledis
+  - ledis
+  - lib_redis
+  - mc_eredis
+  - radish
+  - raditz
+  - redis
+  - rediscl
+  - yar
