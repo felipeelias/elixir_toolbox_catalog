@@ -1,0 +1,6 @@
+name: Mnesia Clients
+description: Mnesia client libraries
+packages:
+  - mnesiac
+  - mnesiam
+  - otplabs
