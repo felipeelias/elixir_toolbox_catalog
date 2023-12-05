@@ -1,5 +1,39 @@
 name: Clustering
 description: Packages that enable clustering of Erlang nodes
 packages:
+  - cloister
+  - clusterable
+  - columbo
+  - distrimon
+  - dns_cluster
+  - dns_srv_cluster
+  - easy_cluster
+  - elector
+  - epmdlex
+  - eredis_cluster
+  - galaxy
+  - global_child
+  - global_supervisor
+  - herd
+  - highlander
+  - hydrax
+  - kantan_cluster
+  - kurasuta
   - libcluster
+  - libelection
+  - loner
+  - maracuja
+  - nebulex_cluster
+  - nebulex_local_multilevel_adapter
+  - node_compass
   - peerage
+  - peerage_ec2
+  - pogo
+  - redis_cluster_multilock
+  - redix_clustered
+  - single
+  - singleton_supervisor
+  - skycluster
+  - squabble
+  - stoker
+  - tailscale
