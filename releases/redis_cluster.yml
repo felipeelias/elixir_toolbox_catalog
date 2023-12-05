@@ -1,0 +1,6 @@
+name: Redis Clustering
+description: Redis client libraries
+packages:
+  - erc
+  - redix_cluster
+  - redix_cluster_remastered
