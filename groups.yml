@@ -1,44 +1,42 @@
-web:
-  title: Web Apps, Services & Interaction
-parsing_serializing:
-  title: Data Manipulation
-# formatting:
-#   title: Data Formatting
-performance:
-  title: Performance
-releases:
-  title: Running Apps on Production
-ui_ux:
-  title: User Interface and Experience
-concurrency:
-  title: Concurrency
-design_patterns:
-  title: Design Patterns
-algorithms:
-  title: Algorithms
-math:
-  title: Math, Physics, Statistics and Machine Learning
-language_extensions:
-  title: Elixir Language Extensions
-data_structures:
-  title: Data Structures
-i18n:
-  title: Localization and Internationalization
-templating:
-  title: Templating
-phoenix:
-  title: Phoenix Framework Extensions
-ash:
-  title: Ash Framework Extensions
-testing:
-  title: Testing
-ecto:
-  title: Ecto Extensions
-plug:
-  title: Plug Packages
 absinthe:
   title: Absinthe GraphQL Packages
+algorithms:
+  title: Algorithms
+ash:
+  title: Ash Framework Extensions
 code_quality:
   title: Code Quality
+concurrency:
+  title: Concurrency
 data_persistence:
   title: Data Persistence, Clients and Drivers
+data_structures:
+  title: Data Structures
+design_patterns:
+  title: Design Patterns
+ecto:
+  title: Ecto Extensions
+i18n:
+  title: Localization and Internationalization
+language_extensions:
+  title: Elixir Language Extensions
+math:
+  title: Math, Physics, Statistics and Machine Learning
+parsing_serializing:
+  title: Data Manipulation
+performance:
+  title: Performance
+plug:
+  title: Plug Packages
+phoenix:
+  title: Phoenix Framework Extensions
+releases:
+  title: Running Apps on Production
+templating:
+  title: Templating & Template Languages
+testing:
+  title: Testing
+ui_ux:
+  title: User Interface and Experience
+web:
+  title: Web Apps, Services & Interaction
