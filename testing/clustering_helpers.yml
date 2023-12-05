@@ -1,0 +1,7 @@
+name: Clustering
+description: Clustering helpers for unit tests
+packages:
+  - ex_unit_cluster
+  - ex_unit_clustered_case
+  - local_cluster
+  - test_cluster_task
