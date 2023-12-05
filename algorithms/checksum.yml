@@ -1,4 +1,6 @@
 name: Checksum
 description: Checksum calculation
 packages:
+  - checksum
+  - crc
   - luhn
