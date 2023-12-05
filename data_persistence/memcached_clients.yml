@@ -1,0 +1,6 @@
+name: MemcacheD Clients
+description: MemcacheD client libraries
+packages:
+  - cream
+  - memcached_discovery
+  - memcachir
