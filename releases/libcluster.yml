@@ -1,0 +1,21 @@
+name: Libcluster Strategies
+description: Libcluster strategies
+packages:
+  - libcluster_consul
+  - libcluster_db
+  - libcluster_digitalocean
+  - libcluster_droplet
+  - libcluster_ec2
+  - libcluster_ec2_tag_strategy
+  - libcluster_ecs
+  - libcluster_etcd
+  - libcluster_gae
+  - libcluster_gce
+  - libcluster_gce_strategy
+  - libcluster_gig
+  - libcluster_hcloud
+  - libcluster_postgres
+  - libcluster_postgrex_notifications
+  - libcluster_tailscale
+  - libcluster_uplink
+  - libcluster_yasd
