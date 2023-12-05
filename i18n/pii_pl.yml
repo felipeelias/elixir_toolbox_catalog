@@ -1,0 +1,6 @@
+name: Personal Identifiable Information (Poland)
+description: PII tools, validators and formatters for Polish personal data
+packages:
+  - ex_pesel
+  - peselx
+  - polish_validators
