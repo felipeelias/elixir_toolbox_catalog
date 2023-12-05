@@ -1,5 +1,7 @@
 name: Clustering
 description: Clustering Algorithms
 packages:
+  - bucket_hydra
   - clope
+  - partitioned_cluster_layout
   - rock
