@@ -1,6 +1,7 @@
 name: Cron
 description: Tools for managing Cron
 packages:
+  - citrine
   - cloudi_service_cron
   - cron
   - cron_scheduler
