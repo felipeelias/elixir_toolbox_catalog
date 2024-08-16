@@ -1,0 +1,18 @@
+name: Protobuf
+description: Packages that handle parsing, serializing and manipulation of Google Protobuf data.
+packages:
+  - protobuf
+  - plug_protobufs
+  - protobuf_generate
+  - event_store_db_gpb_protobufs
+  - protobuf_fresha
+  - protobuf_ex
+  - open_rtb_protobuf
+  - google_protos
+  - hyperbuffs
+  - protox
+  - gpb
+  - rebar3_gpb_plugin
+  - protocol_buffers
+  - pb_lite
+  - exprotobuf
