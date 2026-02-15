@@ -9,7 +9,7 @@ Please take a moment to read the points below to make the review process easy an
 
 ### What is Elixir Toolbox
 
-As of the writing of this page, Elixir has around 13,300 packages in [Hex](https://hex.pm) :tada:.
+Elixir has over 23,000 packages in [Hex](https://hex.pm) :tada:.
 It can be tough to find a package if you don't know it beforehand.
 
 The idea of [Elixir Toolbox](https://elixir-toolbox.dev) is to help you find the most appropriate package that solves the right problem.
@@ -39,8 +39,8 @@ It exists to declutter the UI and to split categories that have the same "name" 
 
 For example, "Clustering" has at least two meanings: data clustering algorithms and clustering Erlang nodes.
 
-Elixir Toolbox catalog is heavily developed and lacks some groups, so suggestions are welcome.
+Elixir Toolbox catalog is still being developed and lacks some groups, so suggestions are welcome.
 
 ## Copyright and License
 
-Copyright (c) 2022, Felipe Philipp. Licensed under the [MIT License](LICENSE.md).
+Copyright (c) 2022-2026, Felipe Philipp. Licensed under the [MIT License](LICENSE.md).
