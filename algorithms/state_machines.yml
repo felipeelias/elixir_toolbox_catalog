@@ -1,16 +1,17 @@
 name: State Machines
-description: A state machine is a mathematical abstraction used to design algorithms
+description: Finite state machine libraries and DSLs
 packages:
-  - fsm
-  - gen_fsm
-  - exfsm
-  - machinery
-  - gearbox
-  - as_fsm
   - aasm
-  - machinist
-  - states_language
-  - state_machine
-  - maxine
+  - as_fsm
+  - exfsm
   - exsm
+  - finitomata
+  - fsm
+  - gearbox
+  - gen_fsm
+  - machinery
+  - machinist
+  - maxine
+  - state_machine
   - state_server
+  - states_language

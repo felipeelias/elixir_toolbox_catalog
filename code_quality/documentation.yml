@@ -1,4 +1,5 @@
 name: Documentation
-description: Documentation generation tools
+description: Documentation generation and quality tools
 packages:
+  - doctor
   - ex_doc

@@ -4,7 +4,7 @@ packages:
   - floki
   - html_entities
   - html_sanitize_ex
-  - Meeseeks
+  - meeseeks
   - modest_ex
   - myhtmlex
   - tidy_ex

@@ -7,11 +7,10 @@ packages:
   - jason
   - jaxon
   - jazz
-  - jose
   - json
+  - json_stream_encoder
   - jsone
-  - Jsonrs
-  - JsonStreamEncoder
+  - jsonrs
   - jsx
   - jsxn
   - poison
