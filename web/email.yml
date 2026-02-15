@@ -1,0 +1,9 @@
+name: Email
+description: Email composition, delivery, and templating
+packages:
+  - bamboo
+  - swoosh
+  - gen_smtp
+  - sendgrid
+  - mail
+  - premailex

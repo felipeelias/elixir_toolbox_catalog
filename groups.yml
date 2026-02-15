@@ -1,9 +1,9 @@
 absinthe:
-  title: Absinthe GraphQL Packages
+  title: Absinthe
 algorithms:
   title: Algorithms
 ash:
-  title: Ash Framework Extensions
+  title: Ash
 code_quality:
   title: Code Quality
 concurrency:
@@ -17,7 +17,7 @@ data_structures:
 design_patterns:
   title: Design Patterns
 ecto:
-  title: Ecto Extensions
+  title: Ecto
 i18n:
   title: Localization and Internationalization
 language_extensions:
@@ -31,9 +31,11 @@ performance:
 plug:
   title: Plug Packages
 phoenix:
-  title: Phoenix Framework Extensions
+  title: Phoenix
 releases:
   title: Running Apps on Production
+security:
+  title: Security
 templating:
   title: Templating & Template Languages
 testing:

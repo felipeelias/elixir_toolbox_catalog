@@ -1,0 +1,16 @@
+name: Monitoring & Telemetry
+description: Application monitoring, metrics collection, and observability
+packages:
+  - telemetry
+  - telemetry_metrics
+  - telemetry_poller
+  - prometheus
+  - prometheus_ex
+  - prometheus_plugs
+  - prometheus_ecto
+  - prometheus_phoenix
+  - opentelemetry
+  - opentelemetry_api
+  - opentelemetry_exporter
+  - spandex
+  - statix

@@ -1,0 +1,6 @@
+name: Structured Logging
+description: JSON and structured logging backends
+packages:
+  - ink
+  - logger_json
+  - logfmt

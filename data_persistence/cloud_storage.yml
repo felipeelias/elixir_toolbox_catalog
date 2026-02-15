@@ -1,0 +1,8 @@
+name: Cloud Storage (AWS)
+description: AWS and cloud storage client libraries
+packages:
+  - ex_aws
+  - ex_aws_s3
+  - ex_aws_ses
+  - waffle
+  - waffle_ecto

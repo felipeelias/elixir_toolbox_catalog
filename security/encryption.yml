@@ -1,0 +1,6 @@
+name: Encryption
+description: Data encryption and cryptographic utilities
+packages:
+  - cloak
+  - cloak_ecto
+  - ex_crypto

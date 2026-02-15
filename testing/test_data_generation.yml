@@ -1,0 +1,5 @@
+name: Test Data Generation
+description: Generate fake and random test data
+packages:
+  - faker
+  - stream_data

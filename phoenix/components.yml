@@ -1,0 +1,7 @@
+name: Phoenix Components
+description: UI component libraries for Phoenix
+packages:
+  - phoenix_html
+  - phoenix_template
+  - petal_components
+  - salad_ui

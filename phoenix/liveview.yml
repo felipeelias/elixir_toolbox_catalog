@@ -1,0 +1,9 @@
+name: LiveView
+description: Phoenix LiveView and real-time UI packages
+packages:
+  - phoenix_live_view
+  - phoenix_live_dashboard
+  - surface
+  - live_select
+  - live_svelte
+  - live_vue
