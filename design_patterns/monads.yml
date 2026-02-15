@@ -1,5 +1,5 @@
 name: Monads
-description: Monads packages
+description: Monad abstractions and functional composition
 packages:
   - witchcraft
   - monadex

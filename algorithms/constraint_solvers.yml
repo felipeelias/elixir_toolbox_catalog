@@ -1,4 +1,4 @@
 name: Constraint Solvers
-description: Constraint Solvers
+description: Constraint satisfaction problem solvers
 packages:
   - aruspex

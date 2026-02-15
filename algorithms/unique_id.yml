@@ -1,5 +1,5 @@
 name: Unique IDs
-description: Unique IDs generation
+description: Unique ID generation
 packages:
   - cuid
   - uuid

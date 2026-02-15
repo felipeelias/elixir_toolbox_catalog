@@ -1,5 +1,5 @@
 name: Clustering
-description: Clustering Algorithms
+description: Data clustering and partitioning algorithms
 packages:
   - bucket_hydra
   - clope

@@ -1,4 +1,4 @@
 name: Stream Ciphers
-description: Stream Ciphers algorithms
+description: Stream cipher implementations
 packages:
   - lfsr

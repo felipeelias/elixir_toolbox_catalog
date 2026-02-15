@@ -1,5 +1,5 @@
 name: Probabilistic
-description: Probabilistic Data Structures implementations
+description: Probabilistic data structure implementations
 packages:
   - bloomex
   - cuckoo
