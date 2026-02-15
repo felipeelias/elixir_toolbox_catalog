@@ -2,7 +2,6 @@
 name: HTTP Clients
 description: HTTP Clients
 packages:
-  - elixir-http_client
   - finch
   - fusco
   - hackney

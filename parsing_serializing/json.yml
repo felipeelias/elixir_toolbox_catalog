@@ -2,7 +2,6 @@
 name: JSON
 description: Packages that handle parsing, serializing and manipulation of JSON data structures
 packages:
-  - elixir-json
   - exjson
   - exjsx
   - jason

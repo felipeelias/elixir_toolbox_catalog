@@ -12,5 +12,4 @@ packages:
   - hush
   - hush_aws_secrets_manager
   - hush_gcp_secret_manager
-  - sweetconfig
   - vapor

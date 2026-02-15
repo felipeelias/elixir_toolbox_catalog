@@ -16,7 +16,6 @@ packages:
   - milliseconds
   - moment
   - open_hours
-  - repeatex
   - timex
   - timex_interval
   - tzdata
