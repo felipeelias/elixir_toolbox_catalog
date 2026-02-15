@@ -12,7 +12,7 @@ concurrency:
 cryptocurrencies:
   title: Cryptocurrencies
 data_persistence:
-  title: Data Persistence, Clients and Drivers
+  title: Data & Storage
 data_structures:
   title: Data Structures
 design_patterns:
@@ -44,4 +44,4 @@ testing:
 ui_ux:
   title: User Interface and Experience
 web:
-  title: Web Apps, Services & Interaction
+  title: Web
