@@ -1,0 +1,96 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+ROOT="$(cd "$(dirname "$0")/.." && pwd)"
+CHECK_ONLY=false
+errors=0
+
+if [[ "${1:-}" == "--check" ]]; then
+  CHECK_ONLY=true
+fi
+
+lint_category() {
+  local file="$1"
+  local rel="${file#"$ROOT"/}"
+
+  for field in name description packages; do
+    if ! yq -e ".$field" "$file" > /dev/null 2>&1; then
+      echo "ERROR: $rel is missing required field '$field'"
+      errors=$((errors + 1))
+      return
+    fi
+  done
+
+  # Sort packages alphabetically and lowercase, strip trailing periods
+  local fixed
+  fixed=$(yq '
+    .description |= sub("\\.+$", "") |
+    .packages |= (map(downcase) | sort)
+  ' "$file")
+
+  if [[ "$CHECK_ONLY" == true ]]; then
+    local current
+    current=$(cat "$file")
+    if [[ "$fixed" != "$current" ]]; then
+      echo "FAIL: $rel"
+      diff --unified <(echo "$current") <(echo "$fixed") || true
+      echo ""
+      errors=$((errors + 1))
+    fi
+  else
+    echo "$fixed" > "$file"
+  fi
+}
+
+lint_groups() {
+  local groups_file="$ROOT/groups.yml"
+
+  if [[ ! -f "$groups_file" ]]; then
+    echo "ERROR: groups.yml not found"
+    errors=$((errors + 1))
+    return
+  fi
+
+  for dir in "$ROOT"/*/; do
+    local dir_name
+    dir_name=$(basename "$dir")
+    [[ "$dir_name" == "bin" || "$dir_name" == ".github" || "$dir_name" == ".claude" ]] && continue
+    if ! yq -e ".$dir_name" "$groups_file" > /dev/null 2>&1; then
+      echo "ERROR: directory '$dir_name' has no entry in groups.yml"
+      errors=$((errors + 1))
+    fi
+  done
+
+  for key in $(yq 'keys | .[]' "$groups_file"); do
+    if [[ ! -d "$ROOT/$key" ]]; then
+      echo "ERROR: groups.yml has '$key' but directory does not exist"
+      errors=$((errors + 1))
+    fi
+  done
+}
+
+while IFS= read -r -d '' file; do
+  lint_category "$file"
+done < <(find "$ROOT" -name '*.yml' \
+  -not -name 'groups.yml' \
+  -not -name '.yamllint.yml' \
+  -not -path "$ROOT/.github/*" \
+  -print0 | sort -z)
+
+lint_groups
+
+if [[ "$CHECK_ONLY" == true ]]; then
+  if [[ $errors -gt 0 ]]; then
+    echo "$errors error(s) found. Run 'bin/lint' to fix."
+    exit 1
+  else
+    echo "All files OK."
+  fi
+else
+  if [[ $errors -gt 0 ]]; then
+    echo "$errors validation error(s) found."
+    exit 1
+  else
+    echo "All files formatted."
+  fi
+fi
