@@ -1,5 +1,6 @@
+---
 name: Circuit Breakers
 description: Prevent failures from constantly recurring
 packages:
-  - fuse
   - elistrix
+  - fuse

@@ -1,5 +1,6 @@
+---
 name: Configuration
-description: Packages and tools working with configurations.
+description: Packages and tools working with configurations
 packages:
   - confex
   - configparser_ex

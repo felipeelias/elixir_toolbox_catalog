@@ -1,5 +1,6 @@
+---
 name: Liquid
 description: Liquid template packages
 packages:
-  - solid
   - liquex
+  - solid

@@ -1,3 +1,4 @@
+---
 name: Clustering
 description: Packages that enable clustering of Erlang nodes
 packages:

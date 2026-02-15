@@ -1,19 +1,20 @@
+---
 name: Authorization
 description: Packages that provide authorization policies
 packages:
-  - bodyguard
-  - canary
-  - policy_wonk
-  - let_me
-  - authorize
   - aegis
-  - can
-  - pundit
-  - can_i
-  - simple_can
-  - canada
-  - terminator
-  - policy
-  - chalk_authorization
+  - authorize
   - auval_office
+  - bodyguard
+  - can
+  - can_i
+  - canada
+  - canary
+  - chalk_authorization
+  - let_me
   - meseeks
+  - policy
+  - policy_wonk
+  - pundit
+  - simple_can
+  - terminator

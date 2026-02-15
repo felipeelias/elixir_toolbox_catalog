@@ -1,5 +1,6 @@
+---
 name: Static Security Analysis
 description: Tools for finding security vulnerabilities in Elixir code
 packages:
-  - sobelow
   - mix_audit
+  - sobelow

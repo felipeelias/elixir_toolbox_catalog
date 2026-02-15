@@ -1,6 +1,7 @@
+---
 name: JWT & Tokens
 description: JSON Web Token generation, signing, and verification
 packages:
+  - guardian
   - joken
   - jose
-  - guardian

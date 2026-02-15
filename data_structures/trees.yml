@@ -1,7 +1,8 @@
+---
 name: Trees
 description: Trees implementations
 packages:
   - merkle_tree
-  - red_black_tree
   - nary_tree
+  - red_black_tree
   - zipper_tree

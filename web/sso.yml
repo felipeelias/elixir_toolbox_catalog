@@ -1,5 +1,6 @@
+---
 name: Single Sign-On
 description: Packages that add Single Sign-On (SSO) authentication
 packages:
-  - ueberauth
   - assent
+  - ueberauth

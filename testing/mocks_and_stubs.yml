@@ -1,13 +1,14 @@
+---
 name: Mocks and Stubs
 description: Packages that help with mocking and stubbing in tests
 packages:
-  - mox
-  - meck
-  - mock
-  - hammox
-  - mockery
-  - ex_meck
-  - placebo
-  - ex_mock
-  - mecks_unit
   - em
+  - ex_meck
+  - ex_mock
+  - hammox
+  - meck
+  - mecks_unit
+  - mock
+  - mockery
+  - mox
+  - placebo

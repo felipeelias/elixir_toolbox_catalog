@@ -1,10 +1,11 @@
+---
 name: OpenAPI, Swagger, API Blueprint
-description: Generate or serve API documentation.
+description: Generate or serve API documentation
 packages:
+  - apocryphal
   - blue_bird
+  - bureaucrat
+  - open_api_spex
   - phoenix_api_docs
   - phoenix_swagger
   - xcribe
-  - open_api_spex
-  - apocryphal
-  - bureaucrat

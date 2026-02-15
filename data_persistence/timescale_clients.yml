@@ -1,5 +1,6 @@
+---
 name: TimescaleDB Clients
-description: Packages that allow interaction with TimescaleDB.
+description: Packages that allow interaction with TimescaleDB
 packages:
   - ecto_timescaledb
   - timescale

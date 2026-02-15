@@ -1,8 +1,9 @@
+---
 name: Absinthe Authorization
 description: Authorization implementations for Absinthe GraphQL
 packages:
-  - speakeasy
-  - rajska
   - bastion
   - blanka
   - datacop
+  - rajska
+  - speakeasy

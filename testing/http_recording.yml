@@ -1,5 +1,6 @@
+---
 name: HTTP Recording & Mocking
 description: Record and replay HTTP interactions for testing
 packages:
-  - exvcr
   - bypass
+  - exvcr

@@ -1,7 +1,8 @@
+---
 name: Background Jobs
 description: Persistent background job processing
 packages:
-  - oban
   - exq
+  - oban
   - que
   - rihanna

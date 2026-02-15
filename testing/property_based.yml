@@ -1,8 +1,9 @@
+---
 name: Property-Based Testing
 description: Property-based testing packages
 packages:
-  - stream_data
-  - proper
-  - propcheck
-  - quixir
   - ecto_stream_factory
+  - propcheck
+  - proper
+  - quixir
+  - stream_data

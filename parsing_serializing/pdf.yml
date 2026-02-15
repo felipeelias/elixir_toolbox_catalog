@@ -1,3 +1,4 @@
+---
 name: PDF
 description: Packages that handle parsing, serializing and manipulation of PDF documents
 packages:

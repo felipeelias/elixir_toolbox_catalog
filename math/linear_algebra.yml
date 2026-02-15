@@ -1,12 +1,13 @@
+---
 name: Linear Algebra
 description: Packages for manipulating matrices and/or vectors
 packages:
+  - ela
   - ex_matrix
   - exmatrix
+  - graphmath
   - matrex
   - matrix
   - matrix_reloaded
-  - numexy
-  - graphmath
   - numerix
-  - ela
+  - numexy

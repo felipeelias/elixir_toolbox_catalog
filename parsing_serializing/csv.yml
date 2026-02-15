@@ -1,15 +1,16 @@
+---
 name: CSV
 description: Packages that handle parsing, serializing and manipulation of CSV data structures
 packages:
   - cesso
   - csv
-  - csv_parser
   - csv2sql
+  - csv_parser
   - csvlixir
+  - data_morph
   - ecsv
   - erl_csv
   - ex_csv
   - exoffice
   - list_to_csv
   - nimble_csv
-  - data_morph

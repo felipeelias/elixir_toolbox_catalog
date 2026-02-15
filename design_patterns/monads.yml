@@ -1,6 +1,7 @@
+---
 name: Monads
 description: Monad abstractions and functional composition
 packages:
-  - witchcraft
-  - monadex
   - monad
+  - monadex
+  - witchcraft

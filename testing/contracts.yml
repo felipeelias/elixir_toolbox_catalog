@@ -1,5 +1,6 @@
+---
 name: Contract Testing
 description: Packages that enable Contract Testing
 packages:
-  - pact_elixir
   - ex_contract
+  - pact_elixir

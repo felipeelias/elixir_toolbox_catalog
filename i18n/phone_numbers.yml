@@ -1,12 +1,13 @@
+---
 name: Phone Numbers
 description: Packages that parse and format phone numbers
 packages:
+  - antl_phonenumber
+  - elibphonenumber
   - ex_phone_number
   - ex_phone_number_fresha
-  - elibphonenumber
-  - antl_phonenumber
-  - mynumber
-  - mobile_number_format
-  - libphonenumber_erlang
   - libphonenumber
+  - libphonenumber_erlang
+  - mobile_number_format
+  - mynumber
   - phone

@@ -1,3 +1,4 @@
+---
 name: Date and Time
 description: Packages for working with dates, times and calendars
 packages:
@@ -7,6 +8,7 @@ packages:
   - calixir
   - chronos
   - cocktail
+  - datix
   - emojiclock
   - ex_ical
   - good_times
@@ -18,4 +20,3 @@ packages:
   - timex
   - timex_interval
   - tzdata
-  - datix

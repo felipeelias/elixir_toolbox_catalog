@@ -1,14 +1,15 @@
+---
 name: Plug Authorization
 description: Plugs that add authorization policies
 packages:
+  - auth_z
   - authorize
   - bouncer
-  - dictator
-  - sheriff
-  - auth_z
-  - checkpoint
-  - sphinx
-  - rampart
-  - exbouncer
-  - doorboy
   - chalk_authorization_plug
+  - checkpoint
+  - dictator
+  - doorboy
+  - exbouncer
+  - rampart
+  - sheriff
+  - sphinx

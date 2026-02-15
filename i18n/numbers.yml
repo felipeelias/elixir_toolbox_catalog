@@ -1,10 +1,11 @@
+---
 name: Numbers and Currency
 description: Packages that handle number parsing and formatting
 packages:
-  - number
   - currency_formatter
+  - dinero
   - ex_cldr_numbers
-  - norwegian_id_number
   - ex_money
   - money
-  - dinero
+  - norwegian_id_number
+  - number

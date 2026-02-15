@@ -1,5 +1,6 @@
+---
 name: Pathfinding
 description: Pathfinding algorithms
 packages:
-  - eastar
   - conrex
+  - eastar

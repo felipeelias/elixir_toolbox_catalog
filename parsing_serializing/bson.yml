@@ -1,9 +1,10 @@
+---
 name: BSON
 description: Packages that handle parsing, serializing and manipulation of BSON data structures
 packages:
   - bson
-  - bsoneach
-  - gleam_bson
   - bson_erlang
+  - bsoneach
   - cbson
   - cyanide
+  - gleam_bson

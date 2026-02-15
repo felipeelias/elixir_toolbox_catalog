@@ -1,9 +1,10 @@
+---
 name: Phoenix Admin Interfaces
 description: Packages that add or generate Administration pages to Phoenix Apps
 packages:
-  - torch
   - adminable
-  - kaffy
-  - ex_admin
   - alkemist
+  - ex_admin
+  - kaffy
   - live_admin
+  - torch

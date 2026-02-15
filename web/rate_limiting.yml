@@ -1,7 +1,8 @@
+---
 name: Rate Limiting
 description: Request rate limiting and throttling
 packages:
+  - ex_rated
   - hammer
   - hammer_backend_redis
   - plug_attack
-  - ex_rated

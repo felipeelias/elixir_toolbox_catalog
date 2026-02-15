@@ -1,6 +1,7 @@
+---
 name: Markdown
 description: Markdown template packages
 packages:
-  - earmark
   - cmark
   - discount
+  - earmark

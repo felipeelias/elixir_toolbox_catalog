@@ -1,3 +1,4 @@
+---
 name: Redis Clustering
 description: Redis clustering and distributed lock libraries
 packages:

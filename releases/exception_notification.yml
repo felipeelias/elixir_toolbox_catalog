@@ -1,7 +1,8 @@
+---
 name: Exception Notification
 description: Reporting errors to an external service
 packages:
-  - sentry
+  - airbrake
   - appsignal
   - honeybadger
-  - airbrake
+  - sentry

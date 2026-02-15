@@ -1,3 +1,4 @@
+---
 name: CORS
 description: Cross-Origin Resource Sharing middleware
 packages:

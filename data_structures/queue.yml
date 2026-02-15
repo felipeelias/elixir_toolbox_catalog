@@ -1,5 +1,6 @@
+---
 name: Queues
 description: Queue Data Structure implementation
 packages:
-  - qex
   - dlist
+  - qex

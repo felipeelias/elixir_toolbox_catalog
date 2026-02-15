@@ -1,8 +1,9 @@
+---
 name: OAuth2 Servers
-description: Packages that add OAuth 2.0 server functionality to your app.
+description: Packages that add OAuth 2.0 server functionality to your app
 packages:
-  - ex_oauth2_provider
-  - phoenix_oauth2_provider
-  - p1_oauth2
-  - oauth
   - boruta
+  - ex_oauth2_provider
+  - oauth
+  - p1_oauth2
+  - phoenix_oauth2_provider

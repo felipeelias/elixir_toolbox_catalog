@@ -1,10 +1,11 @@
+---
 name: Authentication
 description: Packages that handle authentication for the web
 packages:
-  - guardian
-  - pow
+  - authex
   - basic_auth
   - coherence
+  - guardian
   - phx_gen_auth
+  - pow
   - simple_token_authentication
-  - authex

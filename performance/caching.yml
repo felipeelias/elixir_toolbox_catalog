@@ -1,6 +1,8 @@
+---
 name: Caching
 description: Packages for caching data
 packages:
+  - cache_money
   - cachex
   - con_cache
   - elixir_locker
@@ -11,4 +13,3 @@ packages:
   - memoize
   - nebulex
   - stash
-  - cache_money
