@@ -1,0 +1,7 @@
+---
+name: Encoding and Compression
+description: Data compression libraries for Zstandard, Snappy, Brotli, and other formats
+packages:
+  - brotli
+  - ezstd
+  - snappyer

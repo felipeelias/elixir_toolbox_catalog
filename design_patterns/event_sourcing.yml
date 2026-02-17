@@ -1,0 +1,6 @@
+---
+name: Event Sourcing
+description: CQRS and event sourcing frameworks for building event-driven systems
+packages:
+  - commanded
+  - eventstore

@@ -1,0 +1,10 @@
+---
+name: Validations
+description: Schema-based and extensible data validation libraries
+packages:
+  - goal
+  - norm
+  - optimal
+  - params
+  - tarams
+  - vex

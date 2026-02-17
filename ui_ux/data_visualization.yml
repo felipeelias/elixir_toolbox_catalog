@@ -1,0 +1,8 @@
+---
+name: Data Visualization
+description: Charting, plotting, and interactive data visualization libraries
+packages:
+  - contex
+  - kino
+  - tucan
+  - vega_lite

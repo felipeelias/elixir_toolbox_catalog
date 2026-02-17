@@ -1,0 +1,9 @@
+---
+name: Debugging and Profiling
+description: Production-safe diagnostic, tracing, and profiling tools
+packages:
+  - eflambe
+  - extrace
+  - observer_cli
+  - recon
+  - rexbug

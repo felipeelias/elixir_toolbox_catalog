@@ -1,0 +1,8 @@
+---
+name: Geolocation
+description: Geographic calculations, geocoding, and spatial data libraries
+packages:
+  - geo
+  - geocalc
+  - geocoder
+  - topo
