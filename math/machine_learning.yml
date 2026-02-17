@@ -1,0 +1,16 @@
+---
+name: Machine Learning
+description: Numerical computing, deep learning, and ML inference with the Nx ecosystem
+packages:
+  - axon
+  - bumblebee
+  - exla
+  - explorer
+  - nx
+  - nx_image
+  - nx_signal
+  - ortex
+  - polaris
+  - scholar
+  - stb_image
+  - tokenizers

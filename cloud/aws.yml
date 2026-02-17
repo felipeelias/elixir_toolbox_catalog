@@ -1,0 +1,16 @@
+---
+name: AWS
+description: AWS SDK client libraries for S3, SQS, SNS, DynamoDB, and other services
+packages:
+  - aws
+  - ex_aws
+  - ex_aws_dynamo
+  - ex_aws_ec2
+  - ex_aws_kms
+  - ex_aws_lambda
+  - ex_aws_s3
+  - ex_aws_secretsmanager
+  - ex_aws_ses
+  - ex_aws_sns
+  - ex_aws_sqs
+  - ex_aws_sts

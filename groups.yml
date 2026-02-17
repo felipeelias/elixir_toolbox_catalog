@@ -5,6 +5,8 @@ algorithms:
   title: Algorithms
 ash:
   title: Ash
+cloud:
+  title: Cloud Services
 code_quality:
   title: Code Quality
 concurrency:
@@ -19,6 +21,8 @@ design_patterns:
   title: Design Patterns
 ecto:
   title: Ecto
+embedded:
+  title: Embedded and IoT
 i18n:
   title: Localization and Internationalization
 language_extensions:

@@ -1,0 +1,8 @@
+---
+name: Image Processing
+description: Libraries for manipulating, transforming, and generating images
+packages:
+  - image
+  - mogrify
+  - thumbnex
+  - vix

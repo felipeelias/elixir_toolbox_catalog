@@ -1,0 +1,12 @@
+---
+name: Nerves
+description: Core Nerves framework and hardware libraries for embedded Elixir devices
+packages:
+  - circuits_gpio
+  - circuits_i2c
+  - circuits_spi
+  - circuits_uart
+  - nerves
+  - nerves_runtime
+  - nerves_ssh
+  - vintage_net

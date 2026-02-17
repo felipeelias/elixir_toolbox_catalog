@@ -1,0 +1,11 @@
+---
+name: CLI Tools
+description: Frameworks and utilities for building command-line interfaces and terminal output
+packages:
+  - burrito
+  - cli_mate
+  - io_ansi_table
+  - optimus
+  - owl
+  - progress_bar
+  - table_rex

@@ -1,0 +1,8 @@
+---
+name: Search Engines
+description: Client libraries for search engines like Elasticsearch, OpenSearch, and Typesense
+packages:
+  - elasticsearch
+  - elastix
+  - ex_typesense
+  - snap
