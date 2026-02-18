@@ -1,0 +1,8 @@
+---
+name: Files and Directories
+description: Temporary file management and file system change monitoring
+packages:
+  - briefly
+  - file_system
+  - fs
+  - temp

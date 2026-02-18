@@ -1,0 +1,5 @@
+---
+name: gRPC
+description: gRPC client and server implementations for Elixir
+packages:
+  - grpc

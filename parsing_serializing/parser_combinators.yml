@@ -1,0 +1,7 @@
+---
+name: Parser Combinators
+description: Libraries for building text parsers using composable combinators
+packages:
+  - abnf_parsec
+  - combine
+  - nimble_parsec

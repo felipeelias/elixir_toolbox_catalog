@@ -1,0 +1,10 @@
+---
+name: Stream Processing
+description: Data ingestion pipelines and parallel computation with back-pressure
+packages:
+  - broadway
+  - broadway_kafka
+  - broadway_rabbitmq
+  - broadway_sqs
+  - flow
+  - gen_stage

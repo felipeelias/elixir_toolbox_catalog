@@ -1,0 +1,7 @@
+---
+name: WebSockets
+description: WebSocket client libraries for real-time communication
+packages:
+  - fresh
+  - gun
+  - websockex
