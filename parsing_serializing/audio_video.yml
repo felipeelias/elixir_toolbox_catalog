@@ -1,0 +1,7 @@
+---
+name: Audio and Video
+description: Multimedia processing, streaming, and transcoding libraries
+packages:
+  - ex_m3u8
+  - ffmpex
+  - membrane_core

@@ -1,0 +1,7 @@
+---
+name: Messaging Protocols
+description: Client libraries for AMQP, MQTT, and other messaging protocols
+packages:
+  - amqp
+  - emqtt
+  - tortoise311

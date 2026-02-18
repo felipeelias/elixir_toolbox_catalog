@@ -1,0 +1,7 @@
+---
+name: Static Site Generation
+description: Frameworks for generating static websites and blogs
+packages:
+  - phoenix_pages
+  - still
+  - tableau

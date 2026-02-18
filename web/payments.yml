@@ -1,0 +1,6 @@
+---
+name: Payments
+description: Client libraries for payment processors like Stripe and Braintree
+packages:
+  - braintree
+  - stripity_stripe
