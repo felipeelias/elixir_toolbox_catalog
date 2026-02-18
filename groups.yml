@@ -3,12 +3,16 @@ absinthe:
   title: Absinthe
 algorithms:
   title: Algorithms
+apis:
+  title: APIs and Integrations
 ash:
   title: Ash
 cloud:
   title: Cloud Services
 code_quality:
   title: Code Quality
+communication:
+  title: Communication
 concurrency:
   title: Concurrency
 cryptocurrencies:
