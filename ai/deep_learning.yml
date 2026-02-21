@@ -1,0 +1,10 @@
+---
+name: Deep Learning & Model Inference
+description: Train neural networks or run pre-trained models locally
+packages:
+  - axon
+  - bumblebee
+  - ortex
+  - polaris
+  - scholar
+  - stb_image

@@ -1,0 +1,12 @@
+---
+name: LLM Clients
+description: Call LLM provider APIs — OpenAI, Anthropic, Ollama, Gemini, and more
+packages:
+  - anthropix
+  - ex_llm
+  - gemini_ex
+  - hyper_llm
+  - mistral
+  - ollama
+  - openai_ex
+  - req_llm

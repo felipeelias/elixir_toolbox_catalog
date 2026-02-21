@@ -1,6 +1,8 @@
 ---
 absinthe:
   title: Absinthe
+ai:
+  title: AI, LLM & Machine Learning
 algorithms:
   title: Algorithms
 apis:
@@ -32,7 +34,7 @@ i18n:
 language_extensions:
   title: Elixir Language Extensions
 math:
-  title: Math, Physics, Statistics and Machine Learning
+  title: Math & Statistics
 parsing_serializing:
   title: Data Manipulation
 performance:

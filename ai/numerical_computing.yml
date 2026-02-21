@@ -1,0 +1,10 @@
+---
+name: Numerical Computing
+description: Tensor operations, data frames, and GPU-accelerated computing with the Nx ecosystem
+packages:
+  - exla
+  - explorer
+  - nx
+  - nx_image
+  - nx_signal
+  - tokenizers

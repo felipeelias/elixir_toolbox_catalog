@@ -1,0 +1,11 @@
+---
+name: LLM Orchestration & Structured Output
+description: Build LLM-powered apps with chains, agents, RAG, or structured output
+packages:
+  - ash_ai
+  - instructor
+  - instructor_lite
+  - langchain
+  - langchain_mcp
+  - nous
+  - synaptic
