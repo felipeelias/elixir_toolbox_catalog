@@ -1,57 +1,85 @@
 ---
 absinthe:
   title: Absinthe
+  icon: hero-circle-stack
 ai:
   title: AI, LLM & Machine Learning
+  icon: hero-cpu-chip
 algorithms:
   title: Algorithms
+  icon: hero-variable
 apis:
   title: APIs and Integrations
+  icon: hero-arrow-path
 ash:
   title: Ash
+  icon: hero-fire
 cloud:
   title: Cloud Services
+  icon: hero-cloud
 code_quality:
   title: Code Quality
+  icon: hero-check-badge
 communication:
   title: Communication
+  icon: hero-chat-bubble-left-right
 concurrency:
   title: Concurrency
+  icon: hero-arrows-pointing-in
 cryptocurrencies:
   title: Cryptocurrencies
+  icon: hero-currency-dollar
 data_persistence:
   title: Data & Storage
+  icon: hero-server
 data_structures:
   title: Data Structures
+  icon: hero-cube
 design_patterns:
   title: Design Patterns
+  icon: hero-squares-2x2
 ecto:
   title: Ecto
+  icon: hero-table-cells
 embedded:
   title: Embedded and IoT
+  icon: hero-bolt
 i18n:
   title: Localization and Internationalization
+  icon: hero-language
 language_extensions:
   title: Elixir Language Extensions
+  icon: hero-code-bracket
 math:
   title: Math & Statistics
+  icon: hero-calculator
 parsing_serializing:
   title: Data Manipulation
+  icon: hero-arrows-right-left
 performance:
   title: Performance
-plug:
-  title: Plug Packages
+  icon: hero-signal
 phoenix:
   title: Phoenix
+  icon: hero-rocket-launch
+plug:
+  title: Plug Packages
+  icon: hero-puzzle-piece
 releases:
   title: Running Apps on Production
+  icon: hero-cloud-arrow-up
 security:
   title: Security
+  icon: hero-shield-check
 templating:
   title: Templating & Template Languages
+  icon: hero-document-text
 testing:
   title: Testing
+  icon: hero-beaker
 ui_ux:
   title: User Interface and Experience
+  icon: hero-paint-brush
 web:
   title: Web
+  icon: hero-globe-alt
